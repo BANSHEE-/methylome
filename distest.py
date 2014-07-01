@@ -63,10 +63,7 @@ for file in files:
 
   print type
 
-'''
-error here : I am trying to combine the up path for the .txt filename os.walk returns so that I may be able to open the .txt files even though my script is not *in* the directory with them. I tried using os.path.join approach as well but recieved the same error
 
-'''
 
 '''
       # 4. seperate and strip
